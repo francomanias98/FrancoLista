@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" logo="data:image/png;base64,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", 5R TV Santa Fe
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="4656" logo="https://i.imgur.com/ouMrWiL.png", Telecentro
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", Telpin Canal 2
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1", Canal 4 Posadas
+http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="2726" name="Canal 26 Buenos Aires" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/720.png", Canal 26 Buenos Aires
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
+#EXTINF:0 type="stream" channelId="2698", Canal 22 Buenos Aires
+https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" logo="https://i2.paste.pics/913306f0aa9180b0042df15f5437c9e4.png", Canal 12 Madryn TV
+https://5f700d5b2c46f.streamlock.net:443/madryntv/madryntv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="1929" logo="https://lh3.googleusercontent.com/-gU0LdOci1cE/XrYL7uefhAI/AAAAAAAA0h0/N9ww7QKwrrY9kCL4fMrD3mroXZHoYMudACK8BGAsYHg/s0/2020-05-08.png", C5N
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681443240/ei/SHU4ZLWYE8H6wwSj7Im4BQ/ip/186.56.31.219/id/wBWK9tV9hBM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANhCDxUPkAZ64KW-xBhmNv5bKj8-aupAEeCfne5LiEhDAiB46sfmP-za-8BStc0c1VQcqtsSHvO_v3F5kiiD0aTSUg%3D%3D/file/index.m3u8
+#EXTINF:0 type="stream" channelId="4032" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/123.png", Telefe
+http://200.24.141.2:4000/play/a2ia/index.m3u8
+#EXTINF:0 type="stream" channelId="2409", Canal 13
+http://200.24.141.2:4000/play/a2j5/index.m3u8
+#EXTINF:0 type="stream" channelId="4039", Item 63
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:0 type="stream" channelId="-1", ESPN Premium
+http://181.209.98.162:7780/play/a03d/index.m3u8
+#EXTINF:0 type="stream" channelId="3802", TyC Sports
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_1.m3u8
+#EXTINF:0 type="stream" channelId="4652", Item 49
+http://181.224.161.138:1010/play/a08t/index.m3u8
+#EXTINF:0 type="stream" channelId="2540", espn
+http://45.5.119.202:54321/play/a01a/index.m3u8
+#EXTINF:0 type="stream" channelId="2540", espn colombia
+http://45.236.104.228:7010/play/a02v/index.m3u8
+#EXTINF:0 type="stream" channelId="344", ESPN 2
+http://45.5.119.202:54321/play/a01b/index.m3u8
+#EXTINF:0 type="stream" channelId="355", ESPN 3
+http://45.5.119.202:54321/play/a00h/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", ESPN 4
+http://45.5.119.202:54321/play/a01r/index.m3u8
+#EXTINF:0 type="stream" channelId="4657", espn extra
+http://45.5.119.202:54321/play/a032/index.m3u8
+#EXTINF:0 type="stream" channelId="170", fox sports 2
+http://45.5.119.202:54321/play/a00i/index.m3u8
+#EXTINF:0 type="stream" channelId="180", Item 52
+http://45.5.119.202:54321/play/a02r/index.m3u8
+#EXTINF:0 type="stream" channelId="1263", espn sur
+http://181.224.161.138:1010/play/a00w/index.m3u8
+#EXTINF:0 type="stream" channelId="3746", ESPN 2
+http://181.224.161.138:1010/play/a00r/index.m3u8
+#EXTINF:0 type="stream" channelId="1686", GolTV
+http://181.224.161.138:1010/play/a07r/index.m3u8
+#EXTINF:0 type="stream" channelId="287", Item 48
+http://200.60.124.20:8000/play/a01v/index.m3u8
+#EXTINF:0 type="stream" channelId="1052", TNT
+http://45.228.234.162:24000/play/a02s/index.m3u8
+#EXTINF:0 type="stream" channelId="2557", warner
+http://168.121.46.90:8000/play/a010/index.m3u8
+#EXTINF:0 type="stream" channelId="177", STAR Channel
+http://168.121.46.90:8000/play/a00b/index.m3u8
+#EXTINF:0 type="stream" channelId="1326", Cinemax
+http://168.121.46.90:8000/play/a01n/index.m3u8
+#EXTINF:0 type="stream" channelId="333", Golden
+http://168.121.46.90:8000/play/a02g/index.m3u8
+#EXTINF:0 type="stream" channelId="383", SPACE
+http://168.121.46.90:8000/play/a01q/index.m3u8
+#EXTINF:0 type="stream" channelId="895", TCM
+http://45.190.13.50:8003/play/a027/index.m3u8
+#EXTINF:0 type="stream" channelId="2638", I-SAT
+http://168.121.46.90:8000/play/a008/index.m3u8
+#EXTINF:0 type="stream" channelId="64", Cinecanal
+http://168.121.46.90:8000/play/a006/index.m3u8
+#EXTINF:0 type="stream" channelId="1330", HBO
+http://168.121.46.90:8000/play/a01m/index.m3u8
+#EXTINF:0 type="stream" channelId="2584", HBO Family
+http://186.31.37.98:8000/play/a014/index.m3u8
+#EXTINF:0 type="stream" channelId="2585", HBO PLUS
+http://168.121.46.90:8000/play/a00m/index.m3u8
+#EXTINF:0 type="stream" channelId="2626", Item 56
+http://45.228.234.162:24000/play/a09m/index.m3u8
+#EXTINF:0 type="stream" channelId="1188", Item 57
+http://45.170.241.28:4000/play/a00t/index.m3u8
+#EXTINF:0 type="stream" channelId="310", El Gournet
+http://45.5.119.202:54321/play/a00e/index.m3u8
+#EXTINF:0 type="stream" channelId="1190", Comedy Central
+http://181.129.250.45:9060/play/a0kt/index.m3u8
+#EXTINF:0 type="stream" channelId="73", SyFy
+http://191.102.106.46:15028/play/a00d/index.m3u8
+#EXTINF:0 type="stream" channelId="3228", TBS
+http://45.5.119.202:54321/play/a02o/index.m3u8
+#EXTINF:0 type="stream" channelId="50", Animal Planet
+http://168.121.46.90:8000/play/a00z/index.m3u8
+#EXTINF:0 type="stream" channelId="2620", Discovery H&H
+http://45.5.119.202:54321/play/a01o/index.m3u8
+#EXTINF:0 type="stream" channelId="1200", Life time
+http://181.129.250.45:9060/play/a0l2/index.m3u8
+#EXTINF:0 type="stream" channelId="1969", Telenovelas
+http://181.224.161.138:1010/play/a07o/index.m3u8
+#EXTINF:0 type="stream" channelId="1455", History
+http://190.27.253.211:8000/play/a06h/index.m3u8
+#EXTINF:0 type="stream" channelId="4751", claro musica
+http://45.5.119.202:54321/play/a04k/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", MTV 80s
+http://45.5.119.202:54321/play/a02t/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", MTV 00s
+http://45.5.119.202:54321/play/a00l/index.m3u8
+#EXTINF:0 type="stream" channelId="289", MTV
+http://45.5.119.202:54321/play/a02s/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Retro Plus TV Señal 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="1303", Item 58
+http://45.170.241.28:4000/play/a00l/index.m3u8
